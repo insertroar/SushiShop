@@ -27,9 +27,9 @@
 3. For testing:
 	a. Tomcat:
 		Servers >> Tomcat 9 >> Add and Remove..., add the project. Then Clean, Publish and Start Tomcat.
-		http://localhost:8080/SushiShop/h2
+		http://localhost:9000/SushiShop/h2
 		
-	b. run Spring Boot App (Spring Boot app also contains a simple Tomcat)
+	b. run Spring Boot App or as Java application (Spring Boot app also contains a simple Tomcat)
 		right click on the project >> Run As >> Spring Boot App
-		http://localhost:8080/h2
+		http://localhost:9000/h2
 		
